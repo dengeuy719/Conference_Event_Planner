@@ -1,8 +1,15 @@
 # Conference Event Planner Application
 
 ## Summary
+In this project, I have:
 
-This project involves developing a **Conference Event Planner** application for "BudgetEase" to facilitate their customers in pricing conference events effortlessly. The application provides functionalities to select and price rooms within a conference center, choose additional services like microphones and projectors, and manage meal options for a specified number of guests. The interface dynamically updates in real time based on user selections, and state management is handled efficiently using **Redux Toolkit**. The application is designed to offer a user-friendly experience, allowing multiple users to concurrently plan and manage their events.
+- Developed a **Conference Event Planner** application for "BudgetEase" to help customers easily price conference events.
+- Implemented functionalities to **select and price rooms** within a conference center.
+- Included options for **additional services** like microphones and projectors.
+- Provided **meal selection** features for a specified number of guests.
+- Designed a **dynamic user interface** that updates in real-time based on user selections.
+- Integrated **state management** using **Redux Toolkit** for efficient data handling.
+- Ensured a **user-friendly experience** that supports multiple users concurrently planning and managing their events.
 
 ## Application Features and Capabilities
 
